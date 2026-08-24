@@ -19,4 +19,6 @@ A beautiful, responsive digital clock web application built with HTML, CSS, and 
 - **manifest.json** - PWA manifest for app installation support
 
 ### 🚀 Live Projects
-* [Digital Clock 🕐](https://kumarbuildspro.github.io/digital_clock/)
+* [Digital Clock](https://kumarbuildspro.github.io/digital_clock/)
+### 🚀 Live Projects
+* [Super Fast Charging Animation](https://kumarbuildspro.github.io/charging_animation/)
